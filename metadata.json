@@ -1,0 +1,5 @@
+{
+  "name": "APi Group Engagement Leaderboard",
+  "description": "A gamified leaderboard application for tracking team engagement, tasks, and points with real-time Microsoft/Google Forms submission ingestion simulation.",
+  "requestFramePermissions": []
+}
